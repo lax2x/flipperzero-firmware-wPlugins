@@ -3,12 +3,7 @@
 [Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/ReadMe.md) <= READ THIS READ ME</h2>
 <b>Latest Updates:</b>
 
-- Updated [NRF Sniff (By mothball187)](https://github.com/mothball187/flipperzero-nrf24/tree/main/nrfsniff) to require hold back to exit
-- OFW: [NFC: fix exit from Classic emulation #1385 (By gornekich)](https://github.com/flipperdevices/flipperzero-firmware/pull/1385)
-- OFW: [Fix ./fbt flash FORCE=1 #1386 (By Astrrra)](https://github.com/flipperdevices/flipperzero-firmware/pull/1386)
-- Added [Dolphin Backup (By nminaylov)](https://github.com/flipperdevices/flipperzero-firmware/pull/1384) as a clone of [[FL-2633] Move files from /int to /ext on SD mount #1384 (By nminaylov)](https://github.com/flipperdevices/flipperzero-firmware/pull/1384) Modified by RogueMaster
-- Added [Dolphin Restorer (By nminaylov)](https://github.com/flipperdevices/flipperzero-firmware/pull/1384) as a clone of [[FL-2633] Move files from /int to /ext on SD mount #1384 (By nminaylov)](https://github.com/flipperdevices/flipperzero-firmware/pull/1384) Cloned by RogueMaster
-- Possible BadUSB fixes
+- Latest dev changes
 
 <table width="100%" border="0" cellspacing="0">
   <tr>
